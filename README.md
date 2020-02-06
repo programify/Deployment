@@ -1,2 +1,2 @@
 # Deployment
- Windows 10 Deployment Utility
+ Windows 10 Applications Deployment Utility
