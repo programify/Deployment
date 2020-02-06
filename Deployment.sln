@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deployment", "Deployment.csproj", "{FB40CEB8-79AD-402F-9B78-3398D75F2F76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uninstall", "Uninstall\Uninstall.csproj", "{CBC66D06-8668-4BEB-833D-140C8D5912FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programify.dll", "..\Programify.dll\Programify.dll.csproj", "{574FB50F-A735-4E9C-ACEB-5FFE0008BE30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB40CEB8-79AD-402F-9B78-3398D75F2F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB40CEB8-79AD-402F-9B78-3398D75F2F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB40CEB8-79AD-402F-9B78-3398D75F2F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB40CEB8-79AD-402F-9B78-3398D75F2F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC66D06-8668-4BEB-833D-140C8D5912FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC66D06-8668-4BEB-833D-140C8D5912FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC66D06-8668-4BEB-833D-140C8D5912FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC66D06-8668-4BEB-833D-140C8D5912FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{574FB50F-A735-4E9C-ACEB-5FFE0008BE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574FB50F-A735-4E9C-ACEB-5FFE0008BE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574FB50F-A735-4E9C-ACEB-5FFE0008BE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574FB50F-A735-4E9C-ACEB-5FFE0008BE30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4851987-D562-42E2-9219-A18CBEC9AF27}
+	EndGlobalSection
+EndGlobal
